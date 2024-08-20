@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Felipe
+- 🌱 I’m currently learning python
